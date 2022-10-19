@@ -1,6 +1,7 @@
 1/data/*
 1/~/tensorflow_datasets/*
 3/data/*
+4/data
 4/data/KITTI.zip
 4/data/KITTI/training/seg_model_unet.h5
 4/data/KITTI/training/seg_model_unetplusplus.h5
