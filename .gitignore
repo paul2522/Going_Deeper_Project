@@ -5,3 +5,5 @@
 4/data/KITTI.zip
 4/data/KITTI/training/seg_model_unet.h5
 4/data/KITTI/training/seg_model_unetplusplus.h5
+6/data/MJ/*
+6/data/data_lmdb_release.zip
